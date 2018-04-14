@@ -2,13 +2,17 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container {
-    width: 60%;
-    height: 80vh;
-    margin: 0 auto;
+.board {
+    width: 400px;
+    margin: auto
 }
 
-#board {
-    margin: 0 auto;
-    max-width: 35em;
+.info {
+    width: 400px;
+    margin: auto;
+}
+
+.move-history {
+    max-height: 100px;
+    overflow-y: scroll;
 }
