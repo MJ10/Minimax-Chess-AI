@@ -20,4 +20,4 @@ to serve the files in the directory.
 * [jQuery](https://jquery.com/)
 
 ## License
-This project is licensed under the (MIT License)[https://github.com/MJ10/Minimax-Chess-AI/blob/master/LICENSE.md]
+This project is licensed under the [MIT License](https://github.com/MJ10/Minimax-Chess-AI/blob/master/LICENSE.md).
