@@ -1,5 +1,4 @@
 var board, game = new Chess();
-console.log(game.board);
 // console.log(board);
 var minimaxRoot = function (depth, game, isMaximisingPlayer) {
 
